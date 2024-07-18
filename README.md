@@ -3,7 +3,8 @@
 
 This Streamlit app powered by EasyOCR allows users to upload images and extract text.
 
-[OCR_Screencast.webm](https://github.com/user-attachments/assets/d537c323-6938-46a6-b3d6-8a8a6b764bdc)
+[OCR_Screencast.webm](https://github.com/user-attachments/assets/07c9297a-3617-44a6-9d27-2bba73b07737)
+
 
 ## Features
 
